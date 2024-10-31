@@ -1,2 +1,2 @@
 # CSCI_3700
-WHY can I not just UPLOAD FILES! I HATE github I'm too STUPID TO UNDERSTAND IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This is a repository for all CSCI-3700 projects.
