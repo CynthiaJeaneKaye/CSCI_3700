@@ -1,4 +1,7 @@
-HW3: In this project, we run SQL queries on a Flask server. 
+# HW3
+In this project, we run SQL queries on a Flask server. 
+Created by Kailee Grubbs and Cynthia Kaye :]
+
 
 ## Quick Start
 ### Local Test Setup
